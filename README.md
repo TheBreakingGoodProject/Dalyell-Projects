@@ -4,7 +4,8 @@ The wiki has been updated with some resources and references on [reflective writ
 
 **_Individual Performance Assignment (Due Week 5)_**
 
-Details on the format and requirements for this task have been added to the [wiki](https://github.com/TheBreakingGoodProject/Dalyell-Projects/wiki/Individual-performance-assignment-(week-5-)). Note: For this assignment you will need to have completed [Task 1](https://github.com/TheBreakingGoodProject/Dalyell-Projects/wiki/Tasks).
+Details on the format and requirements for this task have been added to the [wiki](https://github.com/TheBreakingGoodProject/Dalyell-Projects/wiki/Individual-performance-assignment-(week-5-)). 
+_Note: For this assignment you will need to have completed [Task 1](https://github.com/TheBreakingGoodProject/Dalyell-Projects/wiki/Tasks)._
 
 # Announcment - 16 March 2021
 
