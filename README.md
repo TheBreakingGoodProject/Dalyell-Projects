@@ -1,3 +1,11 @@
+# Announcment - 23 March 2021
+
+The wiki has been updated with some resources and references on [reflective writing](https://github.com/TheBreakingGoodProject/Dalyell-Projects/wiki/Reflective-writing) at university and the [dimensions of learning](https://github.com/TheBreakingGoodProject/Dalyell-Projects/wiki/Learning-dimensions). Please have a read through.
+
+**_Individual Performance Assignment (Due Week 5)_**
+
+Details on the format and requirements for this task have been added to the [wiki](https://github.com/TheBreakingGoodProject/Dalyell-Projects/wiki/Individual-performance-assignment-(week-5-)). Note: For this assignment you will need to have completed [Task 1](https://github.com/TheBreakingGoodProject/Dalyell-Projects/wiki/Tasks).
+
 # Announcment - 16 March 2021
 
 We have updated the link in the wiki to the E$$ENTIAL MEDICINE$ Challenges - please make sure that you are using the correct link (https://redcap.sydney.edu.au/surveys/?s=3TDEPCCCJK)
