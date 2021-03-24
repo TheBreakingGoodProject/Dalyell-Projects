@@ -29,12 +29,22 @@ In my opinion, there are many essential medicines that are often neglected; medi
 
 - https://medlineplus.gov/druginfo/meds/a682792.html
 
+## Search Method
+
+- Searched each medicine by using '[medicine-name]', reading the summary provided on the rich snippet on google.
+- Viewed top ~5 websites if further reading was personally needed (if I felt that I didn't get a basic grasp of the medicine's purpose).
+- Didn't thoroughly check if sources were accurate, but rather prioritised search ranking (more convenient to do so).
+- Searched '[medicine-name] "2021"' with the purpose of finding recent data.
+- Searched '[medicine-name] side effects' for finding side effects
+- Searched terms 'adverse effects' and 'fda black box warning' for context on previous information.
+- Searched '[medicine-name] price hike', '[medicine-name] price hike australia price increase', '[medicine-name] price over time' for challenge 3.
+
 ## Essential Medicines Survey Notes
 
 ### Introduction Survey
 
 - “Where do you live? (country).” Replace text input with dropdown menu?
-- “Have your studies and/or career involved health, medicine, chemistry or pharmaceutical topics?” Replace text input with [yes]  [no] buttons?
+- “Have your studies and/or career involved health, medicine, chemistry or pharmaceutical topics?” Replace text input with [yes] [no] buttons?
 - “I consent to my name and/or GitHub username being used to acknowledge my participation in publications originating from this project.” Possible to select all answers (both yes and no), could implement limitation for contrary answers.
 
 ### Challenge 1: News Flash
