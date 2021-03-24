@@ -1,4 +1,3 @@
-
 # 15/03/21 - ESSENTIAL MEDICINES SURVEY
 
 ## CHOSEN MEDICINES
@@ -35,19 +34,14 @@ In my opinion, there are many essential medicines that are often neglected; medi
 ### Introduction Survey
 
 - “Where do you live? (country).” Replace text input with dropdown menu?
-
 - “Have your studies and/or career involved health, medicine, chemistry or pharmaceutical topics?” Replace text input with [yes]  [no] buttons?
-
 - “I consent to my name and/or GitHub username being used to acknowledge my participation in publications originating from this project.” Possible to select all answers (both yes and no), could implement limitation for contrary answers.
 
 ### Challenge 1: News Flash
 
 - Challenge context. News article that I’ve spontaneously seen? Or have reached out to see.
-
 - Do I answer survey questions from memory? Or do I reference source material directly?
-
 - Didn’t know the difference between adverse effect and side effect (https://www.pharmacytimes.com/view/adverse-event-not-the-same-as-side-effect)
-
 - “What medication have you heard about in the context of side effects of using medicines?” Replace paragraph text input with one line input
 
 ### Challenge 2 Price Hike
@@ -57,5 +51,4 @@ In my opinion, there are many essential medicines that are often neglected; medi
 ### Challenge 3 Circle Of Life
 
 - Spelling error in description: “Excellent! You chose diazepam. Now that you have chosen an essential medicine, it is time to look it up on our public database. We will use this **databaes** to find out which company currently owns the rights to diazepam, what its trade name is and when it was first approved. You can find this information in the following link.”
-
 - Confusion about given database when chosen medicine is not found in database.
